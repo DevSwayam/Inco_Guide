@@ -1,51 +1,15 @@
-Certainly! Here's your guide formatted in a more standard way:
+# Inco Guide: Performing Transactions and Deploying Smart Contracts with Remix on Inco Network
 
-# Inco Guide: Deploying Smart Contracts with Remix on Inco Network
+## Step 1: Setting Up Your Wallet
 
-## Wallet Setup
+To perform transactions on the Inco Network, you need to set up your wallet. Follow the steps outlined in the [Setting Up Wallet](./SettingUpWallet.md) guide for detailed instructions.
 
-To interact with the Inco Network, you'll need a wallet. Follow these steps to set it up:
+## Step 2: Performing Transactions
 
-1. Install [Metamask](https://metamask.io/download/) on your browser.
-2. After installation, set up the Inco Devnet in Metamask by following [Inco's guide](https://docs.inco.network/getting-started/connect-metamask).
+Once your wallet is set up, you can initiate transactions. Refer to the [Perform Transaction](./SendTransactions.md) guide for a step-by-step process on how to execute transactions on the Inco Network.
 
-## Test Tokens
+## Step 3: Deploying Your Own Contract
 
-To perform transactions and deploy smart contracts, you need test tokens. Get them by following the steps in the [Inco Faucet guide](https://docs.inco.network/getting-started/faucet).
+To deploy your smart contract and perform transactions on the Inco Network, follow the instructions provided in the [Deploy Your Own Contract](./DeployContracts.md) guide.
 
-## Performing Transactions
-
-1. Open Metamask and navigate to the wallet interface.
-
-   ![Metamask Interface](Assets/Wallet_Interface.png)
-
-2. Click on the highlighted account.
-
-   ![Metamask Account](Assets/Highlighted_Account.png)
-
-3. Select "Add Account" or "Hardware Wallet."
-
-   ![Add Account](Assets/Add_Account.png)
-
-4. Create a new account, give it a name, and click on "Create."
-
-   ![Add a New Account](Assets/Add_a_New_Account.png)
-   ![Name Your Account](Assets/Give_Name_To_Account.png)
-
-5. Copy the address of the new account.
-
-   ![Copy Address of Account](Assets/Copy_Address_Of_Account.png)
-
-6. Go back to your original account with test tokens.
-
-7. Click on "Send Token" and paste the address in the field.
-
-   ![Send Transaction](Assets/Click_On_Send.png)
-
-8. Enter an amount less than your token balance, click "Next," and then "Confirm."
-
-   ![Mention Amount](Assets/Mention_Amount.png)
-
-9. Switch to the new account to verify the received balance.
-
-Now you're ready to deploy your smart contracts on Inco Network using Remix and perform transactions seamlessly.
+Congratulations! You are now equipped with the knowledge to perform transactions and deploy smart contracts on the Inco Network. Feel free to reach out to Inco Devs for any further assistance.
